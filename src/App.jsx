@@ -19,7 +19,7 @@ function App() {
   };
 
   return (
-    <div>
+    <div style="background-color: beige;">
       <form onSubmit={checkWeather}>
         <label htmlFor="Type City Name">
           Type City Name:
